@@ -1,7 +1,14 @@
-# Hi there, I'm <span class="name">Arnav Khandelwal</span>
+<div align="center">
+  
+  # Hi there, I'm <span class="name">Arnav Khandelwal</span>
+  I am working on <a href="https://github.com/rudradogra/SportsSocial.2.1"> Sports Social 2.0 </a> and a <a href = "https://github.com/arnav-khandelwal/bnb"> bed and breakfast </a> website.  
+  Learning Web3 and MERN stack.<br>
+  Just completed <a href = "https://github.com/Aryanj33/TravelAI">TravelAi</a>. 
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnav-khandelwal-7a0aa2278/)
+  [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetCode&logoColor=black)](https://leetcode.com/u/arnav-khandelwal/)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnav-khandelwal-7a0aa2278/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetCode&logoColor=black)](https://leetcode.com/u/arnav-khandelwal/)
+</div>
 
 ## 🛠️ Languages and Tools
 
@@ -19,3 +26,4 @@
 ---
 
 *Thank you for visiting my GitHub profile!*
+```` ▋
