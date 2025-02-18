@@ -23,7 +23,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnav-khandelwal&theme=nord&show_icons=true&hide_border=false&layout=compact" height="195px"/>
 </p>
 
----
-
 *Thank you for visiting my GitHub profile!*
-```` ▋
