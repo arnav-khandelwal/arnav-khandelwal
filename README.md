@@ -67,9 +67,9 @@
 ## 📊 **GitHub Analytics**
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnav-khandelwal&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" height="200"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnav-khandelwal&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" height="150"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=arnav-khandelwal&theme=tokyonight&hide_border=true" height="200"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=arnav-khandelwal&theme=tokyonight&hide_border=true" height="150"/>
 
 </div>
 
