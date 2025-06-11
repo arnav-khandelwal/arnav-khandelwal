@@ -67,8 +67,6 @@
 ## 📊 **GitHub Analytics**
 
 <div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=arnav-khandelwal&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" height="200"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnav-khandelwal&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" height="200"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=arnav-khandelwal&theme=tokyonight&hide_border=true" height="200"/>
@@ -85,15 +83,5 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/arnav-khandelwal/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arnav181104@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-
-### 🎯 *"Building the future, one commit at a time"*
-
-![Profile Views](https://komarev.com/ghpvc/?username=arnav-khandelwal&color=blueviolet&style=flat-square&label=Profile+Views)
 
 </div>
