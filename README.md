@@ -10,7 +10,7 @@
 
 <div align="center">
 
-🔭 Currently building **[Sports Social 2.0](https://github.com/rudradogra/SportsSocial.2.1)**  
+🔭 Currently building **[Sports Social 2.0](https://github.com/arnav-khandelwal/SportsSocial2.0)**  
 🌟 Just shipped **[TravelAi](https://github.com/arnav-khandelwal/TravelAi)**  
 💼 Crafting my personal portfolio  
 📚 Mastering DSA & MERN Stack  
