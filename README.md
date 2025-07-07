@@ -2,18 +2,18 @@
 
 # 👋 Hey, I'm **Arnav Khandelwal**
 
-### 🚀 Full-Stack Developer | 📱 Flutter Enthusiast | 🎯 Problem Solver
+### 🚀 Full-Stack and 📱 Flutter Developer | 🎯 Problem Solver
 
 </div>
 
 ---
 
 <div align="center">
-
-🔭 Currently building **[Sports Social 2.0](https://github.com/arnav-khandelwal/SportsSocial2.0)**  
-🌟 Just shipped **[TravelAi](https://github.com/arnav-khandelwal/TravelAi)**  
-💼 Crafting my personal portfolio  
-📚 Mastering DSA & MERN Stack  
+https://github.com/rudradogra/SportsSocial_app
+🔭 Currently building **[Sports Social 2.0 App](https://github.com/rudradogra/SportsSocial_app)** and **[Jobr](https://github.com/arnav-khandelwal/jobr)**
+🌟 Just shipped **[Sports Social 2.0](https://github.com/arnav-khandelwal/SportsSocial2.0)**  
+💼 Crafting my portfolio  
+📚 Mastering DSA and App Development
 
 </div>
 
