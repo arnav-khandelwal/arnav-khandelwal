@@ -71,6 +71,8 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=arnav-khandelwal&show_icons=true&theme=dracula&hide_border=true" height="150"/>
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=arnav-khandelwal&theme=vue-dark&hide_border=true" height="150"/>
+
 </div>
 
 ---
