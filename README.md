@@ -2,7 +2,8 @@
 
 # 👋 Hey, I'm **Arnav Khandelwal**
 
-### 🚀 Full-Stack and 📱 Flutter Developer | 🎯 Problem Solver
+### 🚀 Full-Stack and 📱 Flutter Developer 
+### 💼 Learning IOS development using Swift  
 
 </div>
 
@@ -12,8 +13,6 @@
 
 🔭 Currently building **[Sports Social 2.0 App](https://github.com/rudradogra/SportsSocial_app)** and **[Jobr](https://github.com/arnav-khandelwal/jobr)** <br/>
 🌟 Just shipped **[Sports Social 2.0](https://github.com/arnav-khandelwal/SportsSocial2.0)**  
-💼 Learning IOS development using Swift 
-📚 Mastering DSA and App Development
 
 </div>
 
@@ -81,23 +80,23 @@
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/arnav-khandelwal-7a0aa2278/" target="__blank">
+<a href="https://www.linkedin.com/in/arnav-khandelwal-7a0aa2278/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://leetcode.com/u/arnav-khandelwal/" target="__blank">
+<a href="https://leetcode.com/u/arnav-khandelwal/" target="_blank">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
 
-<a href="https://arnavkhandelwal.netlify.app/" target="__blank">
+<a href="https://arnavkhandelwal.netlify.app/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
 
-<a href="mailto:arnav181104@gmail.com" target="__blank">
+<a href="mailto:arnav181104@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="https://drive.google.com/file/d/1H1ACVyfM2DNIuTDObJZ8A3xm6zMEokue/view?usp=sharing" target="__blank">
+<a href="https://drive.google.com/file/d/1H1ACVyfM2DNIuTDObJZ8A3xm6zMEokue/view?usp=sharing" target="_blank">
   <img src="https://img.shields.io/badge/Resume-0A66C2?style=for-the-badge&logo=read-the-docs&logoColor=white" />
 </a>
 
