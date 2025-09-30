@@ -3,7 +3,7 @@
 # 👋 Hey, I'm **Arnav Khandelwal**
 
 ### 🚀 Full-Stack and 📱 Flutter Developer 
-### 💼 Learning IOS development using Swift  
+### 💼 Learning React Native 
 
 </div>
 
