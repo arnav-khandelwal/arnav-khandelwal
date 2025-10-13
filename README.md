@@ -11,7 +11,7 @@
 
 <div align="center">
 
-🔭 Currently building **[Sports Social 2.0 App](https://github.com/rudradogra/SportsSocial_app)** and **[Jobr](https://github.com/arnav-khandelwal/jobr)** <br/>
+🔭 Currently building **[Jobr](https://github.com/arnav-khandelwal/jobr)** <br/>
 🌟 Just shipped **[Sports Social 2.0](https://github.com/arnav-khandelwal/SportsSocial2.0)**  
 
 </div>
