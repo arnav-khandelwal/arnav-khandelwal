@@ -2,8 +2,7 @@
 
 # 👋 Hey, I'm **Arnav Khandelwal**
 
-### 🚀 Full-Stack and 📱 Flutter Developer 
-### 💼 Learning React Native 
+### 🚀 Freelance Mobile App Developer: React Native & Flutter
 
 </div>
 
