@@ -2,11 +2,7 @@
 
 # 👋 Hey, I'm **Arnav Khandelwal**
 
-### 🚀 Freelance Mobile App Developer: React Native & Flutter
-
 </div>
-
----
 
 <div align="center">
 
