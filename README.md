@@ -64,9 +64,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnav-khandelwal&theme=dracula&show_icons=true&hide_border=true&layout=compact" height="150"/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=arnav-khandelwal&show_icons=true&theme=dracula&hide_border=true&hide=contribs,issues" height="150"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=arnav-khandelwal&theme=dracula&hide_border=true" height="150"/>
-
 </div>
 
 ---
