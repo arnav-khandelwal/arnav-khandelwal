@@ -6,7 +6,7 @@
 
 <div align="center">
 
-⛓️ Currently dabbling and figuring out blockchain ** <br/>
+⛓️ ** Currently dabbling and figuring out blockchain ** <br/>
 🌟 Just shipped **[Medichain](https://medichain-chi.vercel.app/)**  
 
 </div>
