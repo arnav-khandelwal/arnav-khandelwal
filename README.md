@@ -88,7 +88,7 @@
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="https://drive.google.com/file/d/1H1ACVyfM2DNIuTDObJZ8A3xm6zMEokue/view?usp=sharing" target="_blank">
+<a href="https://drive.google.com/file/d/1dz77ERQvcniHr5fFigojfi1ewk2cktl7/view?usp=sharing" target="_blank">
   <img src="https://img.shields.io/badge/Resume-0A66C2?style=for-the-badge&logo=read-the-docs&logoColor=white" />
 </a>
 
