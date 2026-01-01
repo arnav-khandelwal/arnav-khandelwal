@@ -6,8 +6,8 @@
 
 <div align="center">
 
-⛓️ **Currently dabbling and figuring out blockchain** <br/>
-🌟 Just shipped **[Medichain](https://medichain-chi.vercel.app/)**  
+⛓️ **Currently working on [Appetizer](https://github.com/arnav-khandelwal/appetizer)** <br/>
+🌟 Just shipped **[BeatFall](https://beatfall.netlify.app/)**  
 
 </div>
 
@@ -72,23 +72,23 @@
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/arnav-khandelwal-7a0aa2278/" target="_blank">
+<a href="https://www.linkedin.com/in/arnav-khandelwal-7a0aa2278/" target="__blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://leetcode.com/u/arnav-khandelwal/" target="_blank">
+<a href="https://leetcode.com/u/arnav-khandelwal/" target="__blank">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
 
-<a href="https://arnavkhandelwal.netlify.app/" target="_blank">
+<a href="https://arnavkhandelwal.netlify.app/" target="__blank">
   <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
 
-<a href="mailto:arnav181104@gmail.com" target="_blank">
+<a href="mailto:arnav181104@gmail.com" target="__blank">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="https://drive.google.com/file/d/1dz77ERQvcniHr5fFigojfi1ewk2cktl7/view?usp=sharing" target="_blank">
+<a href="https://drive.google.com/file/d/1dz77ERQvcniHr5fFigojfi1ewk2cktl7/view?usp=sharing" target="__blank">
   <img src="https://img.shields.io/badge/Resume-0A66C2?style=for-the-badge&logo=read-the-docs&logoColor=white" />
 </a>
 
