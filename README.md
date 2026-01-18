@@ -7,7 +7,7 @@
 <div align="center">
 
 ⛓️ **Currently working on [Appetizer](https://github.com/arnav-khandelwal/appetizer)** <br/>
-🌟 Just shipped **[BeatFall](https://beatfall.netlify.app/)**  
+🌟 Just shipped **[MediChain](https://medichain-chi.vercel.app/)**  
 
 </div>
 
